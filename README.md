@@ -49,12 +49,13 @@ Then select the right mode and cllick the `Run` button at the left of the select
 
 ## Program Introduction
 
-|   **Folder Name**   	|              **Description**             	| **Create Date** 	|
-|:-------------------:	|:----------------------------------------:	|:---------------:	|
-|   **basic_count**   	| Hello world with simple number calculate 	|    2023-09-16   	|
-|   **basic_repeat**  	|          Repeat methods examples         	|    2023-09-16   	|
-|   **judge_logic**   	|      If & else grammar with judging      	|    2023-09-16   	|
-| **functions_study** 	|      Custom functions demonstration      	|    2023-09-16   	|
+|   **Folder Name**   	|                       **Description**                      	| **Create Date** 	|
+|:-------------------:	|:----------------------------------------------------------:	|:---------------:	|
+|   **basic_count**   	|          Hello world with simple number calculate          	|    2023-09-16   	|
+|   **basic_repeat**  	|                   Repeat methods examples                  	|    2023-09-16   	|
+|   **judge_logic**   	|               If & else grammar with judging               	|    2023-09-16   	|
+| **functions_study** 	|               Custom functions demonstration               	|    2023-09-16   	|
+|      **slice**      	| The array list and character string's slice method example 	|    2023-09-17   	|
 
 ## Contributors
 
