@@ -57,6 +57,7 @@ Then select the right mode and cllick the `Run` button at the left of the select
 | **functions_study** 	|                                  Custom functions demonstration                                  	|    2023-09-16   	|
 |      **slice**      	|                    The array list and character string's slice method example                    	|    2023-09-17   	|
 | **structure_study** 	| In the struct introduction that could learn about the inner functions beneath a structure method 	|    2023-09-17   	|
+|   **enum_options**  	|                                  The examples based on enum sort                                 	|    2023-09-24   	|
 
 ## Contributors
 

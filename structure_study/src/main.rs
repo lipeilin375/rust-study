@@ -8,8 +8,10 @@ fn main() {
     let o2 = Rect { height: 55, ..o1 };
     struct Point(u32, u32, u32);
     let o2p = Point(o2.width, o2.height, o2.length);
-    println!("o1 is: {:#?}", o1);
-    println!("o2 is: {:?}", o2);
+    // Format print structure
+    println!("o1 is: {:#?}", o1); // ! This print method is used under the 23 line
+    // Only print structure
+    println!("o2 is: {:?}", o2); // ! This print method is used under the 23 line
     println!();
     let info = o2.sqaure();
     println!("The three sqaure is: {}+{}+{}", info.s1, info.s2, info.s3);
